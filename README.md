@@ -1,4 +1,4 @@
-# Secure Digital Payments 2
+# Secure Digital Payments 
 
 Please read this entire document before attempting to interact with the Secure Digital Payments API. If this is your first time connecting to an external API, you may wish to begin with the [quick start guide](quickstart/tutorial.md).
 
